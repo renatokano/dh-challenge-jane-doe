@@ -1,4 +1,4 @@
-# Desafio: Jane Doe
+# Challenge: Jane Doe
 
 Just a small challenge proposed in the FullStack Javascript Bootcamp at DigitalHouse.
 

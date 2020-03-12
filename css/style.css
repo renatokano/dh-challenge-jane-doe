@@ -121,6 +121,26 @@ header > .header-menu {
   padding: 4px 0px;
 }
 
+/* Music */
+.music h2 {
+  text-align: left;
+  padding: 10px 0px 15px 0px;
+}
+
+.music {
+  margin: 10px 20% 20px;
+}
+
+.music .video-info {
+  font-size: 12px;
+  padding: 10px 30px;
+}
+
+.music .video-production p {
+  font-size: 12px;
+  padding: 5px 0;
+}
+
 /* Footer */
 footer {
   text-align: center;

@@ -1,13 +1,16 @@
+/* Reset */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+/* General */
 body {
   font-family: 'Raleway', sans-serif;
 }
 
+/* Header */
 header {
   padding: 10px;
   background-color: #fff;
@@ -41,7 +44,7 @@ header > .header-menu {
   padding: 0px 8px;
 }
 
-
+/* Home */
 .home-img {
   text-align: center;
   height: 500px;
@@ -51,7 +54,7 @@ header > .header-menu {
   background-repeat: no-repeat;
 }
 
-
+/* Footer */
 footer {
   text-align: center;
   background-color: #ddd;

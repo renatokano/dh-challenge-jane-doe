@@ -90,6 +90,37 @@ header > .header-menu {
   font-size: 14px;
 }
 
+/* Contact */
+
+.contact {
+  margin: 0px 20%;
+}
+
+.contact address {
+  font-style: normal;
+  padding: 10px 0px;
+  border-bottom: 1px solid #ddd;
+} 
+
+.contact address:last-child{
+  border: none;
+  margin-bottom: 20px;
+}
+
+.contact h2 {
+  text-align: left;
+}
+
+.contact address .name {
+  font-weight: 700;
+  padding-bottom: 5px;
+}
+
+.contact address .email, .phone {
+  font-size: 14px;
+  padding: 4px 0px;
+}
+
 /* Footer */
 footer {
   text-align: center;
